@@ -1,6 +1,6 @@
 # Política de Privacidade - Misaki
 
-**Última atualização: 11/09/2023**
+**Última atualização: 13/09/2023**
 
 *Esta Política de Privacidade descreve como a Misaki coleta, usa e compartilha informações pessoais dos usuários deste aplicativo. Ao utilizar o aplicativo Misaki, você concorda com as práticas descritas nesta política.*
 
@@ -48,7 +48,7 @@ Se você tiver dúvidas ou preocupações sobre esta Política de Privacidade, o
 
 # Privacy Policy - Misaki
 
-**Last Updated: 09/11/2023**
+**Last Updated: 09/13/2023**
 
 *This Privacy Policy describes how Misaki collects, uses, and shares personal information from users of this application. By using the Misaki app, you agree to the practices described in this policy.*
 
